@@ -17,7 +17,7 @@ from selenium.webdriver import Chrome
 from selenium.webdriver import ChromeOptions
 
 # chrome.exe文件绝对路径
-CHROME_PATH = r"C:\Users\86131\AppData\Local\Google\Chrome\Application\chrome.exe"
+CHROME_PATH = r"C:\Users\XXX\AppData\Local\Google\Chrome\Application\chrome.exe"
 # 自定义端口方式chrome浏览器用户数据存储位置，防止覆盖自己的源数据
 CHROME_INFO_PATH = r"F:\chrome-data"
 # 开启端口
